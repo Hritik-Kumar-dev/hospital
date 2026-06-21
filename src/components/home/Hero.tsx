@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
                 aria-label="Call 88081 41820"
               >
                 <Phone size={18} />
-                Call 9616643637
+                Call 9876543211
               </a>
             </div>
           </div>
@@ -77,7 +77,7 @@ const Hero: React.FC = () => {
           <div className="absolute " />
 
           {/* Doctor portrait anchored at bottom */}
-          <div className="absolute -bottom-1 right-0 md:right-4 lg:right-8 flex items-end justify-end h-full pointer-events-none">
+          <div className="absolute -bottom-1 right-0 md:right-4 lg:right-4 flex items-end justify-end h-full pointer-events-none">
             <img
               src={doctorPhoto}
               alt="Dr. Anurag Kasera — Mrityunjay Hospital"
