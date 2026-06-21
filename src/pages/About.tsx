@@ -51,7 +51,7 @@ const About: React.FC = () => {
                   multi-specialty facility serving thousands of patients every year.
                 </p>
                 <p>
-                  Under the leadership of Dr. Anurag Kashyap and Dr. Pooja Kashyap, we have
+                  Under the leadership of Dr. Anurag Kasera and Dr. Pragya Kasera, we have
                   built a team that combines deep expertise with genuine empathy. We believe
                   that good healthcare is not just about treating disease — it is about
                   caring for the whole person.

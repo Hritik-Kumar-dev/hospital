@@ -20,7 +20,7 @@ const serviceData: Service[] = [
       'Chronic disease management',
       'Vaccination & preventive care',
     ],
-    assignedDoctor: 'Dr. Anurag Kashyap',
+    assignedDoctor: 'Dr. Anurag Kasera',
   },
   {
     slug: 'orthopedics',
@@ -36,7 +36,7 @@ const serviceData: Service[] = [
       'Spine and back pain treatment',
       'Bone deformity correction',
     ],
-    assignedDoctor: 'Dr. Anurag Kashyap',
+    assignedDoctor: 'Dr. Anurag Kasera',
   },
   {
     slug: 'general-surgery',
@@ -52,7 +52,7 @@ const serviceData: Service[] = [
       'Wound care & minor procedures',
       'Pre- and post-operative care',
     ],
-    assignedDoctor: 'Dr. Anurag Kashyap',
+    assignedDoctor: 'Dr. Anurag Kasera',
   },
   {
     slug: 'gynecology',
@@ -68,7 +68,7 @@ const serviceData: Service[] = [
       'Family planning counseling',
       'Laparoscopic gynecology',
     ],
-    assignedDoctor: 'Dr. Pooja Kashyap',
+    assignedDoctor: 'Dr. Pragya Kasera',
   },
   {
     slug: 'child-care',
@@ -84,7 +84,7 @@ const serviceData: Service[] = [
       'Growth & development monitoring',
       'Nutritional counseling for children',
     ],
-    assignedDoctor: 'Dr. Pooja Kashyap',
+    assignedDoctor: 'Dr. Pragya Kasera',
   },
   {
     slug: 'emergency-services',
@@ -100,7 +100,7 @@ const serviceData: Service[] = [
       'Emergency surgical intervention',
       'Critical patient stabilization',
     ],
-    assignedDoctor: 'Dr. Anurag Kashyap',
+    assignedDoctor: 'Dr. Anurag Kasera',
   },
 ];
 

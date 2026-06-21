@@ -13,7 +13,7 @@ const testimonials = [
     name: 'Sunita Devi',
     location: 'Vindhyachal',
     rating: 5,
-    text: 'Dr. Anurag Kashyap is an excellent physician. He took time to explain every detail of the treatment and we felt very reassured throughout the entire process.',
+    text: 'Dr. Anurag Kasera is an excellent physician. He took time to explain every detail of the treatment and we felt very reassured throughout the entire process.',
   },
   {
     name: 'Vikram Singh',
@@ -25,7 +25,7 @@ const testimonials = [
     name: 'Priya Gupta',
     location: 'Chunar',
     rating: 5,
-    text: 'Dr. Pooja Kashyap handled my delivery with great expertise and care. The maternity ward is clean, well-equipped, and the nursing staff is very supportive.',
+    text: 'Dr. Pragya Kasera handled my delivery with great expertise and care. The maternity ward is clean, well-equipped, and the nursing staff is very supportive.',
   },
 ];
 

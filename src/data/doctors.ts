@@ -5,7 +5,7 @@ import type { Doctor } from '../components/doctors/DoctorCard';
 export const doctors: Doctor[] = [
   {
     id: 'dr-anurag-kashyap',
-    name: 'Dr. Anurag Kashyap',
+    name: 'Dr. Anurag Kasera',
     designation: 'Chief Medical Officer',
     specialization: 'General Medicine & General Surgery',
     qualification: 'MBBS, MS (General Surgery)',
@@ -28,7 +28,7 @@ export const doctors: Doctor[] = [
   },
   {
     id: 'dr-pooja-kashyap',
-    name: 'Dr. Pooja Kashyap',
+    name: 'Dr. Pragya Kasera',
     designation: 'Senior Gynecologist',
     specialization: 'Gynecology & Obstetrics',
     qualification: 'MBBS, MD (Obstetrics & Gynecology)',

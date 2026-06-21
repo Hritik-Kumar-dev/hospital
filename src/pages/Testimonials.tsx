@@ -4,9 +4,9 @@ import SectionHeading from '../components/shared/SectionHeading';
 
 const allTestimonials = [
   { name: 'Ramesh Kumar',   location: 'Mirzapur',    rating: 5, text: 'The doctors at Mrityunjay Hospital treated my father with exceptional care. The staff is very attentive and the facilities are modern. Highly recommended!' },
-  { name: 'Sunita Devi',    location: 'Vindhyachal', rating: 5, text: 'Dr. Anurag Kashyap is an excellent physician. He took time to explain every detail of the treatment and we felt very reassured throughout the entire process.' },
+  { name: 'Sunita Devi',    location: 'Vindhyachal', rating: 5, text: 'Dr. Anurag Kasera is an excellent physician. He took time to explain every detail of the treatment and we felt very reassured throughout the entire process.' },
   { name: 'Vikram Singh',   location: 'Mirzapur',    rating: 5, text: 'The online booking system is very convenient. We could book an appointment quickly and the confirmation came immediately. Great experience overall.' },
-  { name: 'Priya Gupta',    location: 'Chunar',      rating: 5, text: 'Dr. Pooja Kashyap handled my delivery with great expertise and care. The maternity ward is clean, well-equipped, and the nursing staff is very supportive.' },
+  { name: 'Priya Gupta',    location: 'Chunar',      rating: 5, text: 'Dr. Pragya Kasera handled my delivery with great expertise and care. The maternity ward is clean, well-equipped, and the nursing staff is very supportive.' },
   { name: 'Arvind Tiwari',  location: 'Ahraura',     rating: 5, text: 'I came in with an emergency and the team responded instantly. The emergency ward is always ready. I owe my recovery to the dedicated staff here.' },
   { name: 'Meera Yadav',    location: 'Mirzapur',    rating: 5, text: 'Very clean hospital. The registration was smooth, waiting time was minimal, and the consultation was thorough. I will always recommend this hospital.' },
   { name: 'Sunil Patel',    location: 'Lalganj',     rating: 4, text: 'Good service and experienced doctors. The hospital is well-maintained and the treatment for my knee problem has shown great improvement.' },

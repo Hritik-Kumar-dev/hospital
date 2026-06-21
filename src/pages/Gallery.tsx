@@ -9,8 +9,8 @@ import doctorPhoto from '../assets/doctor_photo.png';
 const galleryImages = [
   { src: hospitalPhoto, alt: 'Mrityunjay Hospital exterior view',            category: 'Exterior' },
   { src: hospitalPhoto, alt: 'Hospital main entrance and signboard',          category: 'Exterior' },
-  { src: doctorPhoto,   alt: 'Dr. Anurag Kashyap in consultation',           category: 'Doctors' },
-  { src: doctorPhoto,   alt: 'Dr. Pooja Kashyap with patient',               category: 'Doctors' },
+  { src: doctorPhoto,   alt: 'Dr. Anurag Kasera in consultation',           category: 'Doctors' },
+  { src: doctorPhoto,   alt: 'Dr. Pragya Kasera with patient',               category: 'Doctors' },
   { src: hospitalPhoto, alt: 'Modern reception area',                         category: 'Interior' },
   { src: hospitalPhoto, alt: 'Comfortable patient waiting room',              category: 'Interior' },
   { src: hospitalPhoto, alt: 'Well-equipped operation theatre',               category: 'OT & Equipment' },

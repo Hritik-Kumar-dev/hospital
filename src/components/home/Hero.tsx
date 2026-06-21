@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
             </p>
 
             {/* Trust icons */}
-            <div className="mt-8 flex flex-wrap gap-6">
+            <div className="mt-8 flex  gap-3">
               {trustPoints.map((tp) => (
                 <div key={tp.label} className="flex flex-col items-center gap-1.5 text-center">
                   <div className="w-12 h-12 rounded-full bg-[#5B4FCF]/10 flex items-center justify-center text-[#5B4FCF]">
@@ -43,22 +43,22 @@ const Hero: React.FC = () => {
             </div>
 
             {/* CTA row */}
-            <div className="mt-8 flex flex-wrap gap-4">
+            <div className="mt-8 flex  gap-4">
               <Link
                 to="/book-appointment"
-                className="flex items-center gap-2 bg-[#5B4FCF] text-white font-bold px-7 py-3.5 rounded-lg hover:bg-[#4a3fb8] transition-colors text-sm"
+                className="flex items-center gap-2 bg-[#5B4FCF] text-white font-bold px-4 py-1.5 rounded-lg hover:bg-[#4a3fb8] transition-colors text-sm"
                 aria-label="Book an appointment"
               >
                 <Calendar size={18} />
-                Book Appointment →
+                Book Appointment
               </Link>
               <a
                 href="tel:8808141820"
-                className="flex items-center gap-2 bg-white text-[#5B4FCF] font-bold px-7 py-3.5 rounded-lg border-2 border-[#5B4FCF] hover:bg-[#EFEFFB] transition-colors text-sm"
+                className="flex items-center gap-2 bg-white text-[#5B4FCF] font-bold px-4 py-1.5 rounded-lg border-2 border-[#5B4FCF] hover:bg-[#EFEFFB] transition-colors text-sm"
                 aria-label="Call 88081 41820"
               >
                 <Phone size={18} />
-                Call 88081 41820
+                Call 9616643637
               </a>
             </div>
           </div>
@@ -80,7 +80,7 @@ const Hero: React.FC = () => {
           <div className="absolute -bottom-1 right-0 md:right-4 lg:right-8 flex items-end justify-end h-full pointer-events-none">
             <img
               src={doctorPhoto}
-              alt="Dr. Anurag Kashyap — Mrityunjay Hospital"
+              alt="Dr. Anurag Kasera — Mrityunjay Hospital"
               className="h-[80%] max-h-[520px] object-contain object-bottom drop-shadow-2xl"
               loading="eager"
             />
