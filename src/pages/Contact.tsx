@@ -92,7 +92,7 @@ const Contact: React.FC = () => {
                 <Phone size={16} /> Call Now
               </a>
               <a
-                href="https://wa.me/9876543211"
+                href="https://wa.me/95552162871"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-[#25D366] text-white font-bold py-3.5 rounded-xl hover:bg-[#1ebe57] transition-colors text-sm"

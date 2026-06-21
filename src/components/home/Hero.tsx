@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
                 aria-label="Call 88081 41820"
               >
                 <Phone size={18} />
-                Call 9876543211
+                Call 95552162871
               </a>
             </div>
           </div>
